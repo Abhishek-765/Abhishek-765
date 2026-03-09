@@ -77,4 +77,4 @@
 * 📧 Email: abhishekbisht123765@gmail.com
 ---
 
-⭐ **"Automate everything Bb
+⭐ "Automate everything. Build reliable systems."
