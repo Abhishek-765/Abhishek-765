@@ -73,9 +73,8 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav  )
-* 📧 Email: (abhishekbisht123765@gmail.com)
-
+* 💼 LinkedIn: https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
+* 📧 Email: abhishekbisht123765@gmail.com
 ---
 
-⭐ **"Automate everything. Build reliable systems."**
+⭐ **"Automate everything Bb
