@@ -73,7 +73,7 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
+* 💼 LinkedIn: https://www.linkedin.com/in/abhishek-bisht-440024260/
 * 📧 Email: abhishekbisht123765@gmail.com
 ---
 
