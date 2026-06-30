@@ -2,7 +2,7 @@
 
 ### 🚀 DevOps - Openshift Engineer | Cloud & Automation
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF\&size=24\&center=true\&vCenter=true\&width=600\&lines=DevOps+Enthusiast;CI%2FCD+Pipeline+Builder;Cloud+Infrastructure+Learner;Automation+Advocate)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF\&size=24\&center=true\&vCenter=true\&width=600\&lines=DevOps+Engineer;CI%2FCD+Pipeline+Builder;Cloud+Infrastructure+Learner;Automation+Advocate)
 
 ---
 
