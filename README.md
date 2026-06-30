@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhishek Bisht
 
-### 🚀 DevOps Enthusiast | Cloud & Automation
+### 🚀 DevOps - Openshift Engineer | Cloud & Automation
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF\&size=24\&center=true\&vCenter=true\&width=600\&lines=DevOps+Enthusiast;CI%2FCD+Pipeline+Builder;Cloud+Infrastructure+Learner;Automation+Advocate)
 
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-* 🔧 DevOps enthusiast passionate about **automation and scalable infrastructure**
+* 🔧 DevOps - Openshift Engineer passionate about **automation and scalable infrastructure**
 * ☁️ Currently learning **Cloud Platforms and Infrastructure as Code**
 * ⚙️ Building **CI/CD pipelines and containerized applications**
 * 🐧 Improving my **Linux and scripting skills**
